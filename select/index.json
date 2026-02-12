@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "紫苑の花束を",
+  "base_artist": "ASCA",
+  "createdAt": "2026-02-12T13:19:44.069976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紫苑の花束を",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/01_紫苑の花束を_ASCA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紫苑の花束を",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/02_紫苑の花束を_ASCA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紫苑の花束を",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/pl_01_紫苑の花束を_ASCA.txt"
+    }
+  ]
+}
